@@ -11,13 +11,10 @@ You can now use glyphicons-halflings-regular fonts with bootstrap.
 
 ember-cli-bootstrap-fonts does not add a Bower Dependency to your project!
 
-## Sample app
-
-Tom Dale's blog example using Ember CLI and ember-cli-ember-cli-bootstrap-fonts: [broerse/ember-cli-blog](https://github.com/broerse/ember-cli-blog)
-
 ## Credits
 
-And of course thanks to all our wonderful contributors, [here](https://github.com/martinic/ember-cli-bootstrap-css/graphs/contributors)!
+And of course thanks to all our wonderful contributors, [here](https://github.com/martinic/ember-cli-bootstrap-fonts/graphs/contributors)!
 
 ## Changelog
+* **0.1.0** - Release v0.1.0
 * **0.1.0-beta.1** - First Beta release
