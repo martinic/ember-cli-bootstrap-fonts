@@ -16,5 +16,6 @@ ember-cli-bootstrap-fonts does not add a Bower Dependency to your project!
 And of course thanks to all our wonderful contributors, [here](https://github.com/martinic/ember-cli-bootstrap-fonts/graphs/contributors)!
 
 ## Changelog
+* **0.2.0** - Upgrade to ember-cli 2.18.2
 * **0.1.0** - Release v0.1.0
 * **0.1.0-beta.1** - First Beta release
